@@ -117,7 +117,7 @@ public class MyUI extends UI {
             } else if (lending.getValue() != offsite) {
                 message.setValue("<strong>This item is not allowed to be taken offsite.</strong>");
             } else {
-                message.setValue("Success! The group is booked now");
+                message.setValue("Success!  The group is booked now");
             }
 
         });
